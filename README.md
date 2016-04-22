@@ -1,4 +1,4 @@
-#  Sample Code for HTML% MediaRecorder API usage
+#  Sample Code for HTML5 MediaRecorder API usage
 
 -------
 
